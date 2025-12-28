@@ -128,14 +128,7 @@
 
   
   <url>
-    <loc>https://cot7302.github.io/tags/dp/</loc>
-    <lastmod>2025-12-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://cot7302.github.io/tags/%E5%BF%83%E5%BE%97/</loc>
+    <loc>https://cot7302.github.io/tags/%E9%A1%8C%E8%A7%A3/</loc>
     <lastmod>2025-12-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -149,7 +142,14 @@
   </url>
   
   <url>
-    <loc>https://cot7302.github.io/tags/%E9%A1%8C%E8%A7%A3/</loc>
+    <loc>https://cot7302.github.io/tags/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2025-12-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cot7302.github.io/tags/dp/</loc>
     <lastmod>2025-12-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
